@@ -1,5 +1,7 @@
 # Small script fixes & data tools
 
+[中文服务说明与演示](README.zh-CN.md)
+
 Have one reproducible script error or repetitive data task? Send a small example
 and the output you need. We agree on a narrow scope and a fixed price first.
 
