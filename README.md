@@ -21,6 +21,12 @@ required for these local examples.
 
 **Request a quote:** [jointan691@gmail.com](mailto:jointan691@gmail.com)
 
+**Order CSV cleanup on Upwork:**
+[US$30: cleaned CSV, count report and reusable Python script](https://www.upwork.com/services/product/development-it-a-deduplicated-csv-file-and-a-reusable-python-cleanup-script-2097316387128636365?ref=project_share).
+The listing covers one CSV up to 10,000 rows and 10 MB, three-day delivery after
+complete requirements, and one revision. For Upwork orders, all communication,
+funding and payment stay on Upwork under its terms.
+
 Please include the error, expected result and a small sanitized sample. Remove
 passwords, API keys and private customer records. Communication is asynchronous
 in English or Chinese. We will say explicitly which checks ran and what remains
