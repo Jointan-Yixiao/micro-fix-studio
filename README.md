@@ -34,6 +34,16 @@ untested.
 
 ## Runnable examples
 
+### Original motion sample
+
+[Watch or download the 16-second motion demo](media/csv-motion-demo.mp4).
+This silent, 720p example demonstrates animated text, scene changes, captions
+and a simple animated chart using illustrative data. It was produced by the AI
+assistant for this portfolio. It is not past client work and does not demonstrate
+spoken-audio editing. All graphics and wording were created for the sample.
+
+### Python tools
+
 Python 3.10 or newer; standard library only. Both tools run locally without
 uploading the input to any service. They are free under the MIT license.
 
